@@ -1,1 +1,1 @@
-# AI Hardware Hub\nHardware specifications and pricing guides.
+# Hardware Hub\nAI hardware specifications and pricing information.
