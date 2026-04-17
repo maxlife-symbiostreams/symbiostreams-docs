@@ -1,1 +1,1 @@
-# Core Assets\nMission, manifesto, and introduction docs.
+# Core Assets\nMission, manifesto, introduction, overview, and strategic plans.
