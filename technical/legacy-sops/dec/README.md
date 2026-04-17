@@ -1,1 +1,1 @@
-# DEC Legacy SOPs\nStandard Operating Procedures for DEC (PDP/VAX) legacy systems.
+# DEC Legacy SOPs\nSOPs for DEC systems (PDP-11, VAX).
