@@ -1,1 +1,1 @@
-# Compliance\nAgentic compliance ledger and ESG policy trackers.
+# Compliance\nCompliance ledger and ESG policy trackers across various jurisdictions.
