@@ -1,1 +1,1 @@
-# Training\nAgent gyms, training samples, and skill documentation.
+# Training\nCustomer support gyms, training guides, skill PDFs, and agent documentation.
