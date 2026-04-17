@@ -1,1 +1,1 @@
-# IBM Legacy SOPs\nStandard Operating Procedures for IBM legacy systems.
+# IBM Legacy SOPs\nSOPs for IBM mainframe systems (360, 370, 3033, 3081, 3090).
