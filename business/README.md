@@ -1,1 +1,1 @@
-# Business\nNevermined files and minting documentation.
+# Business\nNevermined files, listings, results, and minting documentation.
