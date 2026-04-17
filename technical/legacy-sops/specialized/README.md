@@ -1,1 +1,1 @@
-# Specialized Legacy SOPs\nStandard Operating Procedures for Burroughs, CDC, Cray, Univac, and Honeywell legacy systems.
+# Specialized Legacy SOPs\nSOPs for specialized systems (Burroughs, CDC, Cray, Univac, Honeywell).
