@@ -1,0 +1,1 @@
+# Core Assets\nMission, manifesto, and introduction docs.
