@@ -1,1 +1,1 @@
-# Assets\nImages, logos, and brand assets.
+# Assets\nMedia assets including logos and graphics.
